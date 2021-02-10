@@ -30,4 +30,4 @@ The user should be able to:
 - Backend: Express, NodeJS
 - Database: MongoDB, Mongoose
 
-## Heroku Link https://vast-anchorage-53462.herokuapp.com/
+## Heroku Link https://werkouttwerkout.herokuapp.com/
